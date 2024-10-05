@@ -12,7 +12,7 @@
 [https://www.bilibili.com/video/BV1Jg4y1N7aQ/](https://www.bilibili.com/video/BV1Jg4y1N7aQ/)**
 
  
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于ssm的网上花店系统(源代码+数据库+12000字文档+ppt)630
 
